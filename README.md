@@ -14,5 +14,5 @@
     
 # Output
     Result of Searching
-    how many iterations are required for searching
-    Graphical repretation of tree traversal  
+    Number of iterations required for searching
+    Graphical representation of tree traversal  
